@@ -53,13 +53,17 @@ java -Dfile.encoding=GBK -Dstdout.encoding=GBK -Dstderr.encoding=GBK -jar XiaoMi
 cd ./
 sudo java -jar XiaoMingHostTerminal-4.8.3.jar
 ```   
-##插件介绍   
+## 插件介绍   
  - 必备性插件   
+
+
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
  | Permission | Chuanwise | 3.0 | 权限组管理插件 |
  | Essentials | ThymeChen | 2.0.11 | 群聊管理插件 |
  - 可选性插件   
+
+
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
  | xiaoming-plugman | qfys521 | 1.3 | 小明插件信息插件 |
