@@ -16,7 +16,7 @@ by : qfys521
 >>  -其他
 > 4.插件介绍
 >>  - 必备性安装插件
->>>   1.Permission
+>>>   1.Permission   
 >>>   2.Essentials
 >>  - 选择性安装插件
 >>>   1.xiaoming-plugman
