@@ -41,9 +41,12 @@ by : [qfys521](https://github.com/qfys521)
 ## 关于小明    
 
 - CodeThink团队介绍   
-   CodeThink，中文名「代码思维」，于 2022 年初由椽子成立的技术团队。现正研发包括小明（即时通讯软件机器人适配层）、小明平台（基于小明的插件化框架）在内的多款库和应用程序。   
+   CodeThink，中文名「代码思维」，于 2022 年初由椽子成立的技术团队。现正研发包括小明（即时通讯软件机器人适配层）、小明平台（基于小明的插件化框架）在内的多款库和应用程序。    
+   有关`CodeThink`，您可以点击这里 ->   [CodeThink](https://github.com/codethink-cn)
 - 小明介绍   
-小明机器人是一款基于 `[Mirai](https://github.com/mamoe/mirai)` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。   
+小明机器人是一款基于 `Mirai` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。      
+有关`Mirai`，您可以点击这里 -> [Mirai](https://github.com/mamoe/mirai)
+
 ## 启动脚本   
  - Windows   
 在Windows下，我们推荐您使用以下脚本进行启动:   
