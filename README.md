@@ -1,6 +1,6 @@
 # 小明插件包   
 
-by : [qfys521] (https://github.com/qfys521)
+by : [qfys521](https://github.com/qfys521)
 
 <details>  
 
