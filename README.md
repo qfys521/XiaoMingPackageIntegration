@@ -1,6 +1,6 @@
 # 小明插件包   
 
-by : [qfys521](https://github.com/qfys521)
+by : [qfys521] (https://github.com/qfys521)
 
 <details>  
 
@@ -65,19 +65,19 @@ sudo java -jar XiaoMingHostTerminal-4.8.3.jar
 
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
- | Permission | Chuanwise | 3.0 | 权限组管理插件 |
- | Essentials | ThymeChen | 2.0.11 | 群聊管理插件 |
+ | Permission | [Chuanwise](https://github.com/Chuanwise) | 3.0 | 权限组管理插件 |
+ | Essentials | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | 群聊管理插件 |
  - 可选性插件   
 
 
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
- | xiaoming-plugman | qfys521 | 1.3 | 小明插件信息插件 |
- | faweUtilPro | qfys521 | 5.0 | FAWE命令提示 |
- | XiaoMingMinecraft | Chuanwise | 5.0.1 | QQ和MC互通插件 |
- | qfys521Uitl | qfys521 | 3.5.2-2 | qfys521的小工具 |
- | XiaoMing-Tools-Reload | ThymeChen | 1.0 | 小明小工具 |
- | Nudge | ThymeChen | 2.3.1 | 戳一戳 |
- | pixiv | ThymeChen | 1.3 | 涩图 |
- | LexiconsPro | Chuanwise | 1.16 | 自定义关键词回复 |
- | Process | Chuanwise | 1.3.2 | 进程命令 |
+ | xiaoming-plugman | [qfys521](https://github.com/qfys521) | 1.3 | 小明插件信息插件 |
+ | faweUtilPro | [qfys521](https://github.com/qfys521) | 5.0 | FAWE命令提示 |
+ | XiaoMingMinecraft | [Chuanwise](https://github.com/Chuanwise) | 5.0.1 | QQ和MC互通插件 |
+ | qfys521Uitl | [qfys521](https://github.com/qfys521) | 3.5.2-2 | qfys521的小工具 |
+ | XiaoMing-Tools-Reload | [ThymeChen](https://github.com/ThymeChen) | 1.0 | 小明小工具 |
+ | Nudge | [ThymeChen](https://github.com/ThymeChen) | 2.3.1 | 戳一戳 |
+ | pixiv | [ThymeChen](https://github.com/ThymeChen) | 1.3 | 涩图 |
+ | LexiconsPro | [Chuanwise](https://github.com/Chuanwise) | 1.16 | 自定义关键词回复 |
+ | Process | [Chuanwise](https://github.com/Chuanwise) | 1.3.2 | 进程命令 |
