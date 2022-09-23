@@ -50,7 +50,7 @@ by : [qfys521](https://github.com/qfys521)
 ## 启动脚本   
  - Windows   
 在Windows下，我们推荐您使用以下脚本进行启动:   
-```bat
+``` bat or cmd
 chcp 65001
 cd ./
 java -Dfile.encoding=GBK -Dstdout.encoding=GBK -Dstderr.encoding=GBK -jar XiaoMingHostTerminal-4.8.3.jar
@@ -58,10 +58,12 @@ java -Dfile.encoding=GBK -Dstdout.encoding=GBK -Dstderr.encoding=GBK -jar XiaoMi
 这样我们可以尽力避免乱码问题。   
  - Linux   
 在Linux下，您无需考虑乱码问题，只需要简单的启动脚本启动即可。
-```sh
+``` sh
 cd ./
-sudo java -jar XiaoMingHostTerminal-4.8.3.jar
+java -jar XiaoMingHostTerminal-4.8.3.jar
 ```   
+
+如果在使用过程中提示缺少权限之类的情况，请使用`chmod`命令。
 ## 插件介绍   
  - 必备性插件   
 
