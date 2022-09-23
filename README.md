@@ -4,7 +4,8 @@ by : qfys521
 
 <details>  
 
-<summary># 目录(可折叠)</summary>
+<summary> 目录(可折叠)</summary>
+
 > 1.简介
 >>  - 关于本包
 > 2.关于小明
@@ -27,4 +28,5 @@ by : qfys521
 >>>   7.pixiv
 >>>   8.LexiconsPro
 >>>   9.Process
+
 </details>
