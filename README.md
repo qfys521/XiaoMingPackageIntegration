@@ -6,18 +6,18 @@ by : [qfys521](https://github.com/qfys521)
 
 <summary> 目录(可折叠)</summary>   
 
->  1.(简介)[#%E7%AE%80%E4%BB%8B]    
+>  1. (简介)[#%E7%AE%80%E4%BB%8B]    
 >>  - 关于本包   
 
-> 2.(关于小明)[#%E5%85%B3%E4%BA%8E%E5%B0%8F%E6%98%8E]   
+> 2. (关于小明)[#%E5%85%B3%E4%BA%8E%E5%B0%8F%E6%98%8E]   
 >>  - CodeThink团队介绍
 >>  - 小明介绍   
 
-> 3.(启动脚本)[%E5%90%AF%E5%8A%A8%E8%84%9A%E6%9C%AC]   
+> 3. (启动脚本)[#%E5%90%AF%E5%8A%A8%E8%84%9A%E6%9C%AC]   
 >>  - Linux下   
 >>  - Windows下   
 
-> 4.(插件介绍)[#%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D]   
+> 4. (插件介绍)[#%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D]   
 >>  - 必备性安装插件   
 >>>   1.Permission   
 >>>   2.Essentials   
