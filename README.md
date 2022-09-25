@@ -21,7 +21,7 @@ by : [qfys521](https://github.com/qfys521)
 >>  - 必备性安装插件   [->](./plugins/)
 >>>   1.Permission   
 >>>   2.Essentials   
->>  - 选择性安装插件   
+>>  - 选择性安装插件   [->](./[可选插件])
 >>>   1.xiaoming-plugman   
 >>>   2.faweUtilPro   
 >>>   3.XiaoMingMinecraft   
