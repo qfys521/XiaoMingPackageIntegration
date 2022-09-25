@@ -5,3 +5,6 @@
  | ---- | ----| ---- | ---- |
  | Permission | [Chuanwise](https://github.com/Chuanwise) | 3.0 | 权限组管理插件 |
  | Essentials | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | 群聊管理插件 |
+
+
+[<-](../)
