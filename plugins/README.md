@@ -7,4 +7,4 @@
  | Essentials | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | 群聊管理插件 |
 
 
-[<-](../)
+[<-](https://github.com/qfys521/Test)
