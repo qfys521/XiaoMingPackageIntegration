@@ -79,7 +79,7 @@ java -jar XiaoMingHostTerminal-4.8.3.jar
  | ---- | ----| ---- | ---- |
  | xiaoming-plugman | [qfys521](https://github.com/qfys521) | 1.3 | 小明插件信息插件 |
  | faweUtilPro | [qfys521](https://github.com/qfys521) | 5.0 | FAWE命令提示 |
- | XiaoMingMinecraft | [Chuanwise](https://github.com/Chuanwise) | 5.0.1 | QQ和MC互通插件 |
+ | XiaoMingMinecraft | [Chuanwise](https://github.com/Chuanwise) | 5.5| QQ和MC互通插件 |
  | qfys521Uitl | [qfys521](https://github.com/qfys521) | 3.5.2-2 | qfys521的小工具 |
  | XiaoMing-Tools-Reload | [ThymeChen](https://github.com/ThymeChen) | 1.0 | 小明小工具 |
  | Nudge | [ThymeChen](https://github.com/ThymeChen) | 2.3.1 | 戳一戳 |
