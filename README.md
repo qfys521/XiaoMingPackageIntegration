@@ -18,7 +18,7 @@ by : [qfys521](https://github.com/qfys521)
 >>  - Windows下   
 
 > 4. [插件介绍](#%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D)   
->>  - 必备性安装插件   
+>>  - 必备性安装插件   [->](./plugins/)
 >>>   1.Permission   
 >>>   2.Essentials   
 >>  - 选择性安装插件   
