@@ -70,19 +70,19 @@ java -jar XiaoMingHostTerminal-4.8.3.jar
 
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
- | Permission | [Chuanwise](https://github.com/Chuanwise) | 3.0 | 权限组管理插件 |
- | Essentials | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | 群聊管理插件 |
+ | [Permission](./plugins/) | [Chuanwise](https://github.com/Chuanwise) | 3.0 | 权限组管理插件 |
+ | [Essentials](./plugins/) | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | 群聊管理插件 |
  - 可选性插件   
 
 
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
- | xiaoming-plugman | [qfys521](https://github.com/qfys521) | 1.3 | 小明插件信息插件 |
- | faweUtilPro | [qfys521](https://github.com/qfys521) | 5.0 | FAWE命令提示 |
- | XiaoMingMinecraft | [Chuanwise](https://github.com/Chuanwise) | 5.5| QQ和MC互通插件 |
- | qfys521Uitl | [qfys521](https://github.com/qfys521) | 3.5.2-2 | qfys521的小工具 |
- | XiaoMing-Tools-Reload | [ThymeChen](https://github.com/ThymeChen) | 1.0 | 小明小工具 |
- | Nudge | [ThymeChen](https://github.com/ThymeChen) | 2.3.1 | 戳一戳 |
- | pixiv | [ThymeChen](https://github.com/ThymeChen) | 1.3 | 涩图 |
- | LexiconsPro | [Chuanwise](https://github.com/Chuanwise) | 1.16 | 自定义关键词回复 |
- | Process | [Chuanwise](https://github.com/Chuanwise) | 1.3.2 | 进程命令 |
+ | [xiaoming-plugman](./[可选插件]) | [qfys521](https://github.com/qfys521) | 1.3 | 小明插件信息插件 |
+ | [faweUtilPro](./[可选插件]) | [qfys521](https://github.com/qfys521) | 5.0 | FAWE命令提示 |
+ | [XiaoMingMinecraft](./[可选插件]) | [Chuanwise](https://github.com/Chuanwise) | 5.5| QQ和MC互通插件 |
+ | [qfys521Uitl](./[可选插件]) | [qfys521](https://github.com/qfys521) | 3.5.2-2 | qfys521的小工具 |
+ | [XiaoMing-Tools-Reload](./[可选插件]) | [ThymeChen](https://github.com/ThymeChen) | 1.0 | 小明小工具 |
+ | [Nugde](./[可选插件]) | [ThymeChen](https://github.com/ThymeChen) | 2.3.1 | 戳一戳 |
+ | [pixiv](./[可选插件]) | [ThymeChen](https://github.com/ThymeChen) | 1.3 | 涩图 |
+ | [LexiconsPro](./[可选插件]) | [Chuanwise](https://github.com/Chuanwise) | 1.16 | 自定义关键词回复 |
+ | [Process](./[可选插件]) | [Chuanwise](https://github.com/Chuanwise) | 1.3.2 | 进程命令 |
