@@ -48,7 +48,8 @@ by : [qfys521](https://github.com/qfys521)
 
 
 小明机器人是一款基于 `Mirai` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。      
-有关`Mirai`，您可以点击这里 -> [Mirai](https://github.com/mamoe/mirai)
+有关`小明`，您可以点击这里 -> [小明](https://github.com/codethink-cn/xiaoming)           
+有关`Mirai`，您可以点击这里 -> [Mirai](https://github.com/mamoe/mirai)          
 
 ## 启动脚本   
  - Windows   
