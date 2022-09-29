@@ -66,17 +66,17 @@ java -jar XiaoMingHostTerminal-4.8.3.jar
 
 如果在使用过程中提示缺少权限之类的情况，请使用`chmod`命令。
 ## 插件介绍       
->  必备性插件我们会放进小明启动时默认的插件文件夹，而可选性插件也会在不被小明所加载的文件夹中。        
+>  `必备性`插件我们会放进小明启动时`默认的插件文件夹`中，而`可选性`插件则会放在`不被小明所加载的文件夹`中。        
 
 
- - 必备性插件   
+ - `必备性`插件   
 
 
  | 插件 | 作者 | 收录版本 | 简介 |
  | ---- | ----| ---- | ---- |
- | [Permission](./plugins/) | [Chuanwise](https://github.com/Chuanwise) | 3.0 | 权限组管理插件 |
- | [Essentials](./plugins/) | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | 群聊管理插件 |
- - 可选性插件   
+ | [Permission](./plugins/) | [Chuanwise](https://github.com/Chuanwise) | 3.0 | `权限组`管理插件 |
+ | [Essentials](./plugins/) | [ThymeChen](https://github.com/ThymeChen) | 2.0.11 | `群聊`管理插件 |
+ - `可选性`插件   
 
 
  | 插件 | 作者 | 收录版本 | 简介 |
