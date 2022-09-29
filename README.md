@@ -47,7 +47,8 @@ by : [qfys521](https://github.com/qfys521)
 > 当前新版小明还在精雕细琢中，请您敬请期待。如果想要体验小明，还请您暂且使用旧版，谢谢。        
 
 
-小明机器人是一款基于 `Mirai` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。      
+小明机器人是一款基于 `Mirai` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。 
+---     
 有关`小明`，您可以点击这里 -> [小明](https://github.com/codethink-cn/xiaoming)           
 有关`Mirai`，您可以点击这里 -> [Mirai](https://github.com/mamoe/mirai)          
 
