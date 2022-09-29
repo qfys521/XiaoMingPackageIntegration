@@ -34,27 +34,20 @@ by : [qfys521](https://github.com/qfys521)
 
 </details>
 
-## 简介   
+## 简介     
 - 关于本包    
 本包为小明用户更加方便的使用小明，本包的相关插件以及小明本体的最终解释权归相关插件作者和小明作者所有。   
-
 ## 关于小明    
-
 - CodeThink团队介绍   
-   CodeThink，中文名「代码思维」，于 2022 年初由椽子成立的技术团队。现正研发包括小明（即时通讯软件机器人适配层）、小明平台（基于小明的插件化框架）在内的多款库和应用程序。    
-   有关`CodeThink`，您可以点击这里 ->   [CodeThink](https://github.com/codethink-cn)
-- 小明介绍   
-> 当前新版小明还在精雕细琢中，请您敬请期待。如果想要体验小明，还请您暂且使用旧版，谢谢。        
+   CodeThink，中文名「代码思维」，于 2022 年初由椽子成立的技术团队。现正研发包括小明（即时通讯软件机器人适配层）、小明平台（基于小明的插件化框架）在内的多款库和应用程序。         
+>   有关`CodeThink`，您可以点击这里 ->   [CodeThink](https://github.com/codethink-cn)         
+- 小明介绍         
+> 当前新版小明还在精雕细琢中，请您敬请期待。如果想要体验小明，还请您暂且使用旧版，谢谢。           
 
+小明机器人是一款基于 `Mirai` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。           
 
-小明机器人是一款基于 `Mirai` 的插件化、便于上手、简单小巧的通用 `QQ` 机器人框架。 
-
-
-
----     
-有关`小明`，您可以点击这里 -> [小明](https://github.com/codethink-cn/xiaoming)           
-有关`Mirai`，您可以点击这里 -> [Mirai](https://github.com/mamoe/mirai)          
-
+> 有关`小明`，您可以点击这里 -> [小明](https://github.com/codethink-cn/xiaoming)               
+> 有关`Mirai`，您可以点击这里 -> [Mirai](https://github.com/mamoe/mirai)               
 ## 启动脚本   
  - Windows   
 在Windows下，我们推荐您使用以下脚本进行启动:   
