@@ -22,10 +22,10 @@ by : [qfys521](https://github.com/qfys521)
 >>  - `Windows`下   
 
 > 4. [插件介绍](#%E6%8F%92%E4%BB%B6%E4%BB%8B%E7%BB%8D)   
->>  - 必备性安装插件   [->](./plugins/README.md)
+>>  - 必备性安装插件   [->](https://github.com/qfys521/XiaoMingPackageIntegration/plugins/README.md)
 >>>   1.Permission   
 >>>   2.Essentials   
->>  - 选择性安装插件   [->](./[可选插件]/READNE.md)
+>>  - 选择性安装插件   [->](https://github.com/qfys521/XiaoMingPackageIntegration/[可选插件]/READNE.md)
 >>>   1.xiaoming-plugman   
 >>>   2.faweUtilPro   
 >>>   3.XiaoMingMinecraft   
