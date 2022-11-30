@@ -36,6 +36,9 @@ by : [qfys521](https://github.com/qfys521)
 >>>   8.LexiconsPro   
 >>>   9.Process   
 
+> 5. [小明信息](#小明信息)
+
+
 </details>
 
 ## 简介     
@@ -94,3 +97,26 @@ java -jar XiaoMingHostTerminal-4.8.3.jar
  | [pixiv](./[可选插件]) | [ThymeChen](https://github.com/ThymeChen) | 1.3 | 涩图 |
  | [LexiconsPro](./[可选插件]) | [Chuanwise](https://github.com/Chuanwise) | 1.16 | 自定义关键词回复 |
  | [Process](./[可选插件]) | [Chuanwise](https://github.com/Chuanwise) | 1.3.2 | 进程命令 |
+
+
+## 小明信息    
+
+
+
+欢迎使用小明！新版小明仍在精雕细琢中，如需使用，请使用旧版小明。       
+1、小明文档：https://docs.pl-craft.top/#/manual          
+2、互通文档：https://docs.pl-craft.top/#/plugin/XiaoMingMinecraft         
+3、建议版本：         
+① jdk:11+          
+② XiaoMingHost:4.8.2          
+③ XiaoMingMinecraft:5.0.1-SNAPSHOT           
+如果你需要安装其他插件，请参考下面的版本：           
+④ Permission:3.0（权限控制）          
+⑤ LexiconsPro:1.16（词库插件）          
+⑥ Process:1.3.2-SNAPSHOT（简单开发使用）          
+4、如果你有相关建议，欢迎填表，我们都会择机回应哦 (๑•̀ㅂ•́)و✧            
+① 小明及相关软件意见征集表：https://docs.qq.com/form/page/DYmF3SlVSakVrQWJJ           
+② 小明及其相关软件意见征集回应公示：https://docs.qq.com/doc/DYkdPQ2NxRmhmbGpY           
+5、小明相关群组：          
+① 用户群：小明练剑场:1028959718（禁止非官方 BOT 存在）          
+② 测试群：小明飞机场：828401017（可以邀请其他 BOT 加入，但需做好明确调用）           
